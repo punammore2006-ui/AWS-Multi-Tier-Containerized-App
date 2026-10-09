@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Management System</title>
+</head>
+<body>
+
+    <h1>Student Management System</h1>
+
+    <form>
+        <input type="text" placeholder="Enter Student Name">
+        <button type="submit">Add Student</button>
+    </form>
+
+    <h2>Student List</h2>
+
+    <ul>
+        <li>Punam More</li>
+    </ul>
+
+</body>
+</html>
